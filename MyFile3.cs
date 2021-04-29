@@ -11,5 +11,7 @@ namespace WebApplication1.Models
     {
         public int PostId { get; set; }
         public string Location { get; set; }
+
+        public string MyName { get; set; }
     }
 }
